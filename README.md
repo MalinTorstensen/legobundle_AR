@@ -6,3 +6,5 @@ AR project where once your phone scans the lego card, loads an AR simple game wh
 
 
 // NOTE TO SELF: Add how to add any image/card to the game in README.
+
+// NOTE TO SELF: Is all these files needed for upload ? Remove unused files.
